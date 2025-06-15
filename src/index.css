@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-gray-900 font-sans transition-all duration-300 ease-in-out;
+}
+
+section {
+  @apply px-4 md:px-10 lg:px-20 py-20;
+}/* Smooth animations and utility classes */
+.fade-in {
+  @apply opacity-0 translate-y-4 transition-all duration-1000 ease-in-out;
+}
+
+.fade-in.visible {
+  @apply opacity-100 translate-y-0;
+}
