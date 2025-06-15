@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arnav-portfolio/static/css/main.9f0acc49.css",
+    "main.js": "/arnav-portfolio/static/js/main.20f64c97.js",
+    "index.html": "/arnav-portfolio/index.html",
+    "main.9f0acc49.css.map": "/arnav-portfolio/static/css/main.9f0acc49.css.map",
+    "main.20f64c97.js.map": "/arnav-portfolio/static/js/main.20f64c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0acc49.css",
+    "static/js/main.20f64c97.js"
+  ]
+}
